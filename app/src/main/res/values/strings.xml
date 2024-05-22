@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Basic Login Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">881565028488-3698hosfo1bo7ah20osifovu1faof7id.apps.googleusercontent.com</string>
+</resources>
