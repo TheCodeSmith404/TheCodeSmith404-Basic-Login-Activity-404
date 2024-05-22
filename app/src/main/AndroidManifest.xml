@@ -23,15 +23,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <meta-data
-            android:name="com.google.android.gms.games.APP_ID"
-            android:value="1:881565028488:android:7c1f812017fd0e6a8c0f3d" />
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyC4QeJJXtw7QzZaca46knp1FTZQrtRDyEo" />
     </application>
 
 </manifest>
